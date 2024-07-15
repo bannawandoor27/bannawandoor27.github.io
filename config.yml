@@ -1,4 +1,4 @@
-baseURL: "https://read.hasanulbanna.in/"
+baseURL: https://bannawandoor27.github.io/Writings
 languageCode: en-us
 title: ben's blog
 theme: "PaperMod"
@@ -84,7 +84,7 @@ params:
           url: "https://www.linkedin.com/in/123vivekr/"
 
     editPost:
-        URL: "https://github.com/123vivekr/123vivekr.github.io/tree/main/content"
+        URL: "https://github.com/bannawandoor27/bannawandoor27.github.io/tree/main/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
