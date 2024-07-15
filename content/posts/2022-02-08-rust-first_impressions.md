@@ -19,9 +19,9 @@ At the very beginning you have the most excellent Rust tutorial - [The Rust Book
 # Low level concepts
 Learn Rust - that's the advice I'd give my younger self when starting my undergrad in CS. Rust is a low level language but still retains a high level syntax. The concepts remain, and there is a lot you'll get to learn. As a CS student, it is extremely important to understand the low level working of a program and concepts like memory management, concurrency and the like.
 
-You can build systems software projects like CLIs, operating systems, game engines, embedded system software or even web servers. My first systems software prorject was a simple shell with a few builtins. It was written in C. See [vsh](https://github.com/123benr/vsh). I learnt about how a shell works, and how inputs and outputs are processed.
+You can build systems software projects like CLIs, operating systems, game engines, embedded system software or even web servers. My first systems software prorject was a simple shell with a few builtins. It was written in C. See [vsh](https://github.com/123vivekr/vsh). I learnt about how a shell works, and how inputs and outputs are processed.
 
-Another one is [timers](https://github.com/123benr/timers) which is written in Rust and has better program design. One of the main problems I've faced with this is the time drift due to task switch from the CPU. The initial implementation relied on manually keeping track of each second passed by incrementing a counter.
+Another one is [timers](https://github.com/123vivekr/timers) which is written in Rust and has better program design. One of the main problems I've faced with this is the time drift due to task switch from the CPU. The initial implementation relied on manually keeping track of each second passed by incrementing a counter.
 
 I've been learning about async rust and that itself has led me down a rabbit hole about how a runtime and the underlying operating system manages memory. I got exposed to hands on experience with Linux system calls and such. More on that in another post. Rust has certainly opened me up to a lot of low level concepts during my journey. Combined with my point above on community, the learning part is fun.
 

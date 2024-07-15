@@ -1,6 +1,6 @@
-baseURL: https://123benr.github.io/
+baseURL: https://123vivekr.github.io/
 languageCode: en-us
-title: ben's blog
+title: vivek's blog
 theme: "PaperMod"
 
 enableInlineShortcodes: true
@@ -40,8 +40,8 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "ben's blog"
-    # author: ben R
+    description: "vivek's blog"
+    # author: vivek R
 
     defaultTheme: auto
     # disableThemeToggle: true
@@ -77,19 +77,19 @@ params:
           - Feel free to go though them and leave feedback. You are most welcome.
     socialIcons:
         - name: github
-          url: "https://github.com/123benr"
+          url: "https://github.com/123vivekr"
         - name: twitter
           url: "https://twitter.com/theroyalkonkani"
         - name: linkedin
-          url: "https://www.linkedin.com/in/123benr/"
+          url: "https://www.linkedin.com/in/123vivekr/"
 
     editPost:
-        URL: "https://github.com/123benr/123benr.github.io/tree/main/content"
+        URL: "https://github.com/123vivekr/123vivekr.github.io/tree/main/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
     label:
-        text: "ben's blog"
+        text: "vivek's blog"
         icon: favicon.png
         iconHeight: 25
 

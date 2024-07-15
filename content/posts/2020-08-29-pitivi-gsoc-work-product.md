@@ -22,7 +22,7 @@ In the next commit: [opencv: add cvtracker plugin](https://gitlab.freedesktop.or
 
 I implemented an additional feature to draw a rectangle over the tracked object. This will come in handy during the testing phase and for live tracking in Pitivi. [opencv: cvtracker: add draw property](https://gitlab.freedesktop.org/gstreamer/gst-plugins-bad/-/commit/e62a646c1a1b1cfe0069636138a15f106f512a3f?merge_request_iid=1321)
 
-A brief explanation of the `cvtracker` element can be found on my blog post: [cvtracker: OpenCV object tracking plugin](https://123benr.github.io/2020/08/15/gstreamer-cvtracker.html)
+A brief explanation of the `cvtracker` element can be found on my blog post: [cvtracker: OpenCV object tracking plugin](https://123vivekr.github.io/2020/08/15/gstreamer-cvtracker.html)
 
 ## Tracker Perspective
 
@@ -32,9 +32,9 @@ The work done on the Pitivi side currently resides in the [Merge Request](https:
 
 A brief explanation of tracking objects can be found on my blog post:
 
-[Pitivi: Object Tracking](https://123benr.github.io/2020/07/28/pitivi-object_tracking.html)
+[Pitivi: Object Tracking](https://123vivekr.github.io/2020/07/28/pitivi-object_tracking.html)
 
-As the project progressed, we iterated and made a lot of UI improvements. A demo with the explanation can be found here: [Pitivi: Edit Object Tracking](https://123benr.github.io/2020/08/16/pitivi-object_track_editing.html)
+As the project progressed, we iterated and made a lot of UI improvements. A demo with the explanation can be found here: [Pitivi: Edit Object Tracking](https://123vivekr.github.io/2020/08/16/pitivi-object_track_editing.html)
 
 ![Image](/images/2020-08-29-pitivi-gsoc-work-product/wp-tracker_persp.png "Screenshot of the TrackerPerspective UI")
 ![Image](/images/2020-08-29-pitivi-gsoc-work-product/wp-selecting_object.gif "Selecting an object from the viewer")
