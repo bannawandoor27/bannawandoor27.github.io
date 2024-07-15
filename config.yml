@@ -1,6 +1,6 @@
 baseURL: https://bannawandoor27.github.io/Writings
 languageCode: en-us
-title: vivek's blog
+title: ben's blog
 theme: "PaperMod"
 
 enableInlineShortcodes: true
@@ -89,7 +89,7 @@ params:
         appendFilePath: true # to append file path to Edit link
 
     label:
-        text: "vivek's blog"
+        text: "ben's blog"
         icon: favicon.png
         iconHeight: 25
 

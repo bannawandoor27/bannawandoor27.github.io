@@ -6,7 +6,7 @@ ShowToc: false
 
 
 
-I am **vivek** and I build stuff. 
+I am **ben** and I build stuff. 
 
 Primarily a software engineer interested in web, linux, system design
 and machine learning. Here I'll be documenting my software development journey along with a myraid of other 
